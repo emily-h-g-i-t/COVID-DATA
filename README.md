@@ -2,9 +2,10 @@
 
 An interactive dashboard exploring COVID-19 cases, deaths, and demographic/economic factors across ~200 countries, built with vanilla JavaScript and [Chart.js](https://www.chartjs.org/). Includes the companion Jupyter notebook used to clean, merge, and analyze the underlying data.
 
-**[Live demo →](#)** *(replace with your GitHub Pages / Netlify link once deployed)*
+**[Live demo →]([#](https://amily307.github.io/COVID-DATA/))** 
 
-![dashboard preview](#) *(optional: add a screenshot here)*
+<img width="873" height="528" alt="Screenshot 2026-07-16 at 4 34 31 PM" src="https://github.com/user-attachments/assets/0ed96e45-8da2-4094-bfa5-1d3c3fdf2b11" />
+
 
 ## What it does
 
